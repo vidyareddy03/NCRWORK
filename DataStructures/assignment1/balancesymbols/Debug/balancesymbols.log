@@ -1,0 +1,2 @@
+﻿  main.cpp
+e:\ncrwork\datastructures\assignment1\balancesymbols\main.cpp(18): error C2660: 'strcpy_s': function does not take 2 arguments

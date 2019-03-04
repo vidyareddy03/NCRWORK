@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\ncrwork\datastructures\assignment1\dll\main.cpp(228): warning C4101: 'n': unreferenced local variable
+  DLL.vcxproj -> E:\NCRWork\DataStructures\assignment1\Debug\DLL.exe
+  DLL.vcxproj -> E:\NCRWork\DataStructures\assignment1\Debug\DLL.pdb (Full PDB)

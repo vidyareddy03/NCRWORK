@@ -1,0 +1,7 @@
+﻿  main.cpp
+e:\ncrwork\datastructures\assignment1\polynomialaddition\main.cpp(111): warning C4101: 'loc': unreferenced local variable
+e:\ncrwork\datastructures\assignment1\polynomialaddition\main.cpp(111): warning C4101: 'choice': unreferenced local variable
+e:\ncrwork\datastructures\assignment1\polynomialaddition\main.cpp(111): warning C4101: 'e': unreferenced local variable
+e:\ncrwork\datastructures\assignment1\polynomialaddition\main.cpp(112): warning C4101: 'c': unreferenced local variable
+  PolynomialAddition.vcxproj -> E:\NCRWork\DataStructures\assignment1\Debug\PolynomialAddition.exe
+  PolynomialAddition.vcxproj -> E:\NCRWork\DataStructures\assignment1\Debug\PolynomialAddition.pdb (Full PDB)

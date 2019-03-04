@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\ncrwork\datastructures\assignment1\linkedlist\main.cpp(252): warning C4101: 'n': unreferenced local variable
+  linkedList.vcxproj -> E:\NCRWork\DataStructures\assignment1\Debug\linkedList.exe
+  linkedList.vcxproj -> E:\NCRWork\DataStructures\assignment1\Debug\linkedList.pdb (Full PDB)

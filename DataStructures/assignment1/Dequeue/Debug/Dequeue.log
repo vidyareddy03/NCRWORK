@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\ncrwork\datastructures\assignment1\dequeue\main.cpp(57): warning C4101: 'cur': unreferenced local variable
+  Dequeue.vcxproj -> E:\NCRWork\DataStructures\assignment1\Debug\Dequeue.exe
+  Dequeue.vcxproj -> E:\NCRWork\DataStructures\assignment1\Debug\Dequeue.pdb (Full PDB)

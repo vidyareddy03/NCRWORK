@@ -1,0 +1,6 @@
+﻿  Source.cpp
+e:\ncrwork\datastructures\assignment2\binarysearchtree\source.cpp(214): warning C4101: 'p': unreferenced local variable
+e:\ncrwork\datastructures\assignment2\binarysearchtree\source.cpp(214): warning C4101: 'n': unreferenced local variable
+e:\ncrwork\datastructures\assignment2\binarysearchtree\source.cpp(209): warning C4715: 'BST::delete_spec': not all control paths return a value
+  BinarySearchTree.vcxproj -> E:\NCRWork\DataStructures\assignment2\Debug\BinarySearchTree.exe
+  BinarySearchTree.vcxproj -> E:\NCRWork\DataStructures\assignment2\Debug\BinarySearchTree.pdb (Full PDB)

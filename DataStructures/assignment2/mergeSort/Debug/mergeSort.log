@@ -1,0 +1,7 @@
+﻿  Source.cpp
+e:\ncrwork\datastructures\assignment2\mergesort\source.cpp(40): warning C4101: 'loc': unreferenced local variable
+e:\ncrwork\datastructures\assignment2\mergesort\source.cpp(40): warning C4101: 'min': unreferenced local variable
+e:\ncrwork\datastructures\assignment2\mergesort\source.cpp(40): warning C4101: 'j': unreferenced local variable
+e:\ncrwork\datastructures\assignment2\mergesort\source.cpp(40): warning C4101: 't': unreferenced local variable
+  mergeSort.vcxproj -> E:\NCRWork\DataStructures\assignment2\Debug\mergeSort.exe
+  mergeSort.vcxproj -> E:\NCRWork\DataStructures\assignment2\Debug\mergeSort.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\ncrwork\datastructures\assignment2\quicksort\source.cpp(12): warning C4101: 'temp': unreferenced local variable
+  quickSort.vcxproj -> E:\NCRWork\DataStructures\assignment2\Debug\quickSort.exe
+  quickSort.vcxproj -> E:\NCRWork\DataStructures\assignment2\Debug\quickSort.pdb (Full PDB)
