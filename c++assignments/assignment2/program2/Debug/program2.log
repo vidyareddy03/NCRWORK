@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\ncrwork\c++assignments\assignment2\program2\main.cpp(37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  program2.vcxproj -> E:\NCRWork\c++assignments\assignment2\Debug\program2.exe
+  program2.vcxproj -> E:\NCRWork\c++assignments\assignment2\Debug\program2.pdb (Full PDB)

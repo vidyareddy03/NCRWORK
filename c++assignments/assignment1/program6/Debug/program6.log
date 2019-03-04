@@ -1,0 +1,8 @@
+﻿  main.cpp
+e:\ncrwork\c++assignments\assignment1\program6\main.cpp(8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\ncrwork\c++assignments\assignment1\program6\main.cpp(9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\ncrwork\c++assignments\assignment1\program6\main.cpp(16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\ncrwork\c++assignments\assignment1\program6\main.cpp(17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\ncrwork\c++assignments\assignment1\program6\main.cpp(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  program6.vcxproj -> E:\NCRWork\c++assignments\assignment1\Debug\program6.exe
+  program6.vcxproj -> E:\NCRWork\c++assignments\assignment1\Debug\program6.pdb (Full PDB)

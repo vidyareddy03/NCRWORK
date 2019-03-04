@@ -1,0 +1,8 @@
+﻿  main.cpp
+e:\ncrwork\c++assignments\assignment1\program5\main.cpp(33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\ncrwork\c++assignments\assignment1\program5\main.cpp(37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\ncrwork\c++assignments\assignment1\program5\main.cpp(36): warning C4102: 'case2': unreferenced label
+e:\ncrwork\c++assignments\assignment1\program5\main.cpp(28): warning C4101: 'm': unreferenced local variable
+e:\ncrwork\c++assignments\assignment1\program5\main.cpp(28): warning C4101: 'i': unreferenced local variable
+  program5.vcxproj -> E:\NCRWork\c++assignments\assignment1\Debug\program5.exe
+  program5.vcxproj -> E:\NCRWork\c++assignments\assignment1\Debug\program5.pdb (Full PDB)

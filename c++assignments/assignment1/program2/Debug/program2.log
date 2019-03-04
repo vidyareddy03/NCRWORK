@@ -1,0 +1,5 @@
+﻿  main.cpp
+e:\ncrwork\c++assignments\assignment1\program2\main.cpp(20): error C2660: 'strcpy_s': function does not take 2 arguments
+e:\ncrwork\c++assignments\assignment1\program2\main.cpp(28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\ncrwork\c++assignments\assignment1\program2\main.cpp(40): warning C4804: '<': unsafe use of type 'bool' in operation
+e:\ncrwork\c++assignments\assignment1\program2\main.cpp(44): warning C4804: '<=': unsafe use of type 'bool' in operation
