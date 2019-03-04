@@ -1,0 +1,2 @@
+﻿  main.cpp
+e:\ncrwork\assignment4\program8\main.cpp(20): error C2660: 'strcpy_s': function does not take 2 arguments

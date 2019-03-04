@@ -1,0 +1,5 @@
+﻿  main.cpp
+e:\ncrwork\assignment4\program9\main.cpp(9): warning C4018: '<': signed/unsigned mismatch
+e:\ncrwork\assignment4\program9\main.cpp(10): warning C4018: '<': signed/unsigned mismatch
+  program9.vcxproj -> E:\NCRWork\assignment4\Debug\program9.exe
+  program9.vcxproj -> E:\NCRWork\assignment4\Debug\program9.pdb (Full PDB)

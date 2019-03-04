@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\ncrwork\interestcalculation\interestcalculation\main.cpp(7): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Interestcalculation.vcxproj -> E:\NCRWork\Interestcalculation\Debug\Interestcalculation.exe
+  Interestcalculation.vcxproj -> E:\NCRWork\Interestcalculation\Debug\Interestcalculation.pdb (Full PDB)

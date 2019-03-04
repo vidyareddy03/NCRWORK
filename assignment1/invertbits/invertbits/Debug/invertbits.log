@@ -1,0 +1,4 @@
+﻿  main.c
+e:\ncrwork\invertbits\invertbits\main.c(16): warning C4013: 'getch' undefined; assuming extern returning int
+  invertbits.vcxproj -> E:\NCRWork\invertbits\Debug\invertbits.exe
+  invertbits.vcxproj -> E:\NCRWork\invertbits\Debug\invertbits.pdb (Full PDB)

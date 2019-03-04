@@ -1,0 +1,4 @@
+﻿  main.c
+e:\ncrwork\acceptingnumbers\acceptingnumbers\main.c(27): warning C4013: 'getch' undefined; assuming extern returning int
+  acceptingNumbers.vcxproj -> E:\NCRWork\acceptingNumbers\Debug\acceptingNumbers.exe
+  acceptingNumbers.vcxproj -> E:\NCRWork\acceptingNumbers\Debug\acceptingNumbers.pdb (Full PDB)

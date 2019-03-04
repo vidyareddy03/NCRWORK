@@ -1,0 +1,5 @@
+﻿  main.cpp
+e:\ncrwork\assignment3\program4\main.cpp(17): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+e:\ncrwork\assignment3\program4\main.cpp(26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  program4.vcxproj -> E:\NCRWork\assignment3\Debug\program4.exe
+  program4.vcxproj -> E:\NCRWork\assignment3\Debug\program4.pdb (Full PDB)

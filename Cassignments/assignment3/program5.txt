@@ -1,0 +1,14 @@
+C program contains the following declaration int x[8]= {10,20,30,40,50,60,70,80};
+Analyze the meaning of below statements
+a. What is the meaning of x?
+b. What is the meaning of (x+2)?
+c. What is the value of *x?
+d. What is the value of (*x+2)?
+e. What is the value of *(x+2)?
+
+
+a. x=>base address i.e address of 10
+b. x+2 => address of 30
+c. *x gives the value i.e 10
+d. *x+2 gives 12
+e. *(x+2) gives 30

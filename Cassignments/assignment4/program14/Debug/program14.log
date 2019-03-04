@@ -1,0 +1,5 @@
+﻿  main.c
+e:\ncrwork\assignment4\program14\main.c(7): warning C4013: 'gets' undefined; assuming extern returning int
+e:\ncrwork\assignment4\program14\main.c(18): warning C4013: 'system' undefined; assuming extern returning int
+  program14.vcxproj -> E:\NCRWork\assignment4\Debug\program14.exe
+  program14.vcxproj -> E:\NCRWork\assignment4\Debug\program14.pdb (Full PDB)

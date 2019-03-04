@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\ncrwork\assignment3\program2\main.cpp(5): warning C4101: 'temp': unreferenced local variable
+  program2.vcxproj -> E:\NCRWork\assignment3\Debug\program2.exe
+  program2.vcxproj -> E:\NCRWork\assignment3\Debug\program2.pdb (Full PDB)
