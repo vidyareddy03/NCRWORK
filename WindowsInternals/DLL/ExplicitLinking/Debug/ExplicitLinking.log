@@ -1,0 +1,10 @@
+﻿  Source.cpp
+e:\ncrwork\windowsinternals\dll\explicitlinking\source.cpp(3): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+e:\ncrwork\windowsinternals\dll\explicitlinking\source.cpp(3): warning C4129: 'N': unrecognized character escape sequence
+e:\ncrwork\windowsinternals\dll\explicitlinking\source.cpp(3): warning C4129: 'W': unrecognized character escape sequence
+e:\ncrwork\windowsinternals\dll\explicitlinking\source.cpp(3): warning C4129: 'D': unrecognized character escape sequence
+e:\ncrwork\windowsinternals\dll\explicitlinking\source.cpp(3): error C2440: 'initializing': cannot convert from 'HMODULE' to 'int'
+  e:\ncrwork\windowsinternals\dll\explicitlinking\source.cpp(3): note: There is no context in which this conversion is possible
+e:\ncrwork\windowsinternals\dll\explicitlinking\source.cpp(4): error C2059: syntax error: 'if'
+e:\ncrwork\windowsinternals\dll\explicitlinking\source.cpp(5): error C2143: syntax error: missing ';' before '{'
+e:\ncrwork\windowsinternals\dll\explicitlinking\source.cpp(5): error C2447: '{': missing function header (old-style formal list?)

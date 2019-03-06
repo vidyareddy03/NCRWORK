@@ -1,0 +1,7 @@
+﻿  sub.c
+e:\ncrwork\windowsinternals\dll\mylib\mylib.h(9): error C2059: syntax error: 'constant'
+e:\ncrwork\windowsinternals\dll\mylib\mylib.h(10): error C2059: syntax error: 'constant'
+  add.c
+e:\ncrwork\windowsinternals\dll\mylib\mylib.h(9): error C2059: syntax error: 'constant'
+e:\ncrwork\windowsinternals\dll\mylib\mylib.h(10): error C2059: syntax error: 'constant'
+  Generating Code...

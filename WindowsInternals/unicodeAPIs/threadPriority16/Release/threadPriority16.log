@@ -1,0 +1,8 @@
+﻿  child.cpp
+  Source.cpp
+LINK : warning LNK4067: ambiguous entry point; selected 'mainCRTStartup'
+  Generating code
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  threadPriority16.vcxproj -> E:\NCRWork\WindowsInternals\unicodeAPIs\Release\threadPriority16.exe
+  threadPriority16.vcxproj -> E:\NCRWork\WindowsInternals\unicodeAPIs\Release\threadPriority16.pdb (Full PDB)

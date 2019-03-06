@@ -1,0 +1,8 @@
+﻿  sub.cpp
+  mul.cpp
+  div.cpp
+  add.cpp
+  Generating Code...
+     Creating library E:\NCRWork\WindowsInternals\DLL\Debug\demo.lib and object E:\NCRWork\WindowsInternals\DLL\Debug\demo.exp
+  demo.vcxproj -> E:\NCRWork\WindowsInternals\DLL\Debug\demo.dll
+  demo.vcxproj -> E:\NCRWork\WindowsInternals\DLL\Debug\demo.pdb (Full PDB)

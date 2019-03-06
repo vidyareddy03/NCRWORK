@@ -1,0 +1,8 @@
+﻿  sub.cpp
+  mul.cpp
+  div.cpp
+  demodll.cpp
+  Generating Code...
+     Creating library E:\NCRWork\WindowsInternals\DLL\Debug\demodll.lib and object E:\NCRWork\WindowsInternals\DLL\Debug\demodll.exp
+  demodll.vcxproj -> E:\NCRWork\WindowsInternals\DLL\Debug\demodll.dll
+  demodll.vcxproj -> E:\NCRWork\WindowsInternals\DLL\Debug\demodll.pdb (Full PDB)

@@ -1,0 +1,6 @@
+﻿  Source.cpp
+e:\ncrwork\windowsinternals\dll\waitforsingle24\source.cpp(19): warning C4101: 'arr_han': unreferenced local variable
+e:\ncrwork\windowsinternals\dll\waitforsingle24\source.cpp(18): warning C4101: 'hTh2': unreferenced local variable
+e:\ncrwork\windowsinternals\dll\waitforsingle24\source.cpp(17): warning C4101: 'thId2': unreferenced local variable
+  WaitForSingle24.vcxproj -> E:\NCRWork\WindowsInternals\DLL\Debug\WaitForSingle24.exe
+  WaitForSingle24.vcxproj -> E:\NCRWork\WindowsInternals\DLL\Debug\WaitForSingle24.pdb (Full PDB)

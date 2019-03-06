@@ -1,0 +1,8 @@
+﻿  Source.cpp
+e:\ncrwork\windowsinternals\readeof\source.cpp(53): warning C4477: 'wprintf' : format string '%S' requires an argument of type 'char *', but variadic argument 2 has type 'TCHAR *'
+  e:\ncrwork\windowsinternals\readeof\source.cpp(53): note: consider using '%lS' in the format string
+  e:\ncrwork\windowsinternals\readeof\source.cpp(53): note: consider using '%llS' in the format string
+  e:\ncrwork\windowsinternals\readeof\source.cpp(53): note: consider using '%LS' in the format string
+  e:\ncrwork\windowsinternals\readeof\source.cpp(53): note: consider using '%wS' in the format string
+  ReadEOF.vcxproj -> E:\NCRWork\WindowsInternals\unicodeAPIs\Debug\ReadEOF.exe
+  ReadEOF.vcxproj -> E:\NCRWork\WindowsInternals\unicodeAPIs\Debug\ReadEOF.pdb (Full PDB)

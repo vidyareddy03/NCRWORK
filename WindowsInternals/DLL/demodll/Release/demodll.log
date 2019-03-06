@@ -1,0 +1,10 @@
+﻿  demodll.cpp
+  div.cpp
+  mul.cpp
+  sub.cpp
+     Creating library E:\NCRWork\WindowsInternals\DLL\Release\demodll.lib and object E:\NCRWork\WindowsInternals\DLL\Release\demodll.exp
+  Generating code
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  demodll.vcxproj -> E:\NCRWork\WindowsInternals\DLL\Release\demodll.dll
+  demodll.vcxproj -> E:\NCRWork\WindowsInternals\DLL\Release\demodll.pdb (Full PDB)

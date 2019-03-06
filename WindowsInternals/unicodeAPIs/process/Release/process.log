@@ -1,0 +1,11 @@
+﻿  Source.cpp
+Source.cpp(16): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'TCHAR *'
+  Source.cpp(16): note: consider using '%ls' in the format string
+  Source.cpp(16): note: consider using '%lls' in the format string
+  Source.cpp(16): note: consider using '%Ls' in the format string
+  Source.cpp(16): note: consider using '%ws' in the format string
+  Generating code
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  process.vcxproj -> E:\NCRWork\WindowsInternals\unicodeAPIs\Release\process.exe
+  process.vcxproj -> E:\NCRWork\WindowsInternals\unicodeAPIs\Release\process.pdb (Full PDB)
